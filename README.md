@@ -172,6 +172,25 @@ We recommend creating JavaScript-specific classes to bind to, prefixed with `.js
 
 ## Sass
 
+### Browser specific declarations
+1. Don't use browser specific declarations as we are using autoprefixer and this will be done automatically for example 
+   
+   ```scss
+   
+   //bad
+   .example {
+       -ms-transform: rotate(7deg);
+       -webkit-transform: rotate(7deg);
+       transform: rotate(7deg); 
+   }
+   
+   //good
+   .example {
+       transform: rotate(7deg); 
+   }
+   
+   ```
+
 ### Syntax
 
 * Use the `.scss` syntax, never the original `.sass` syntax
