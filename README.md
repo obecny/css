@@ -15,6 +15,7 @@
     - [ID Selectors](#id-selectors)
     - [JavaScript hooks](#javascript-hooks)
   1. [Sass](#sass)
+    - [Browser specific declarations](#browser-specific-declarations)
     - [Syntax](#syntax)
     - [Ordering](#ordering-of-property-declarations)
     - [Mixins](#mixins)
