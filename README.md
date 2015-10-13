@@ -71,6 +71,7 @@ Finally, properties are what give the selected elements of a rule declaration th
 * In properties, put a space after, but not before, the `:` character.
 * Put closing braces `}` of rule declarations on a new line
 * Put blank lines between rule declarations
+* Keep all atributes ordered ALPHABETICALLY - this helps to avoid duplications
 
 **Bad**
 
