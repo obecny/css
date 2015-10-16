@@ -1,6 +1,11 @@
-# Airbnb CSS / Sass Styleguide
+# ConsumerAffairs CSS / Sass Styleguide , inspired by Airbnb
 
 *A mostly reasonable approach to CSS and Sass*
+
+for linting params see this page:
+[Linting params](https://github.com/brigade/scss-lint/tree/master/lib/scss_lint/linter)
+
+
 
 ## Table of Contents
 

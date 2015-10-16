@@ -1,14 +1,18 @@
 linters:
 
+  BemDepth:
+    enabled: true
+
   BorderZero:
     enabled: true
     convention: none
 
-  BemDepth:
-    enabled: true
-
   DeclarationOrder:
     enabled: false
+
+  Indentation:
+    character: space
+    width: 4
 
   LeadingZero:
     enabled: false
